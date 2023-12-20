@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Growtopia Private Server",
+        "tech": "C++",
+        "image": "./assets/img/project/endps.png",
+        "desc":"This is my first project. I making using C++",
+        "links": {
+            "demo": "https://www.youtube.com/@VernSG",
+            "code": "https://github.com/GrowtopiaNoobs/GrowtopiaServer2"
+        }
+    }
+]
