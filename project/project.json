@@ -7,6 +7,14 @@
         "links": {
             "demo": "https://www.youtube.com/@VernSG",
             "code": "https://github.com/GrowtopiaNoobs/GrowtopiaServer2"
+
+        "title": "Manhwapedia",
+        "tech": "HTML + CSS + JS",
+        "image": "./assets/img/project/manhwa.webp",
+        "desc":"This is my project that uses a website to describe manhwa characters.",
+        "links": {
+            "demo": "https://manhwapedia.site",
+            "code": "https://github.com/VernSG",
         }
     }
 ]
