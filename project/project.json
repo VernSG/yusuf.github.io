@@ -2,7 +2,7 @@
     {
         "title": "Manhwapedia",
         "tech": "HTML + CSS + JS",
-        "image": "./assets/img/project/manhwa.webp",
+        "image": "./assets/img/project/manhwa.jpg",
         "desc":"This is my project that uses a website to describe manhwa characters.",
         "links": {
             "demo": "https://Manhwapedia.site",
