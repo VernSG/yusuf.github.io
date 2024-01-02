@@ -16,6 +16,13 @@
         "links": {
             "demo": "https://youtube.com/VernSG?",
             "code": "https://github.com/GrowtopiaNoobs"
-        }
+        },{
+        "title": "Web Kelas XII IPA 2",
+        "tech": "HTML + CSS + JS",
+        "image": "./assets/img/project/webkelasini.png",
+        "desc":"This is my web class created using HTML + CSS + JS and with React framework and firebase as a database.",
+        "links": {
+            "demo": "https://xii-ipa-2.vercel.app",
+            "code": "https://github.com/VernSG"
     }
 ]
