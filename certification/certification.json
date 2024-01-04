@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Belajar Dasar Javascript",
+        "by": "Dicoding",
+        "image": "./certification/sertifikat1.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/0LZ0269LNX65"
+        }
+    }
+]
