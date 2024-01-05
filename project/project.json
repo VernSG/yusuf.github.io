@@ -29,7 +29,7 @@
         },{
         "title": "Tugas Dicoding Web Dasar",
         "tech": "HTML + CSS",
-        "image": "./assets/img/project/tugasdicoding.png",
+        "image": "./assets/img/project/TugasDicoding.png",
         "desc":"this is a basic website learning coding task using flexbox.",
         "links": {
             "demo": "https://github.com/VernSG",
