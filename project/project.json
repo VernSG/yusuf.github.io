@@ -34,6 +34,14 @@
         "links": {
             "demo": "https://github.com/VernSG",
             "code": "https://github.com/VernSG"
+        },{
+        "title": "GTPS Website",
+        "tech": "HTML + CSS + JS",
+        "image": "./assets/img/project/webgtps2.png",
+        "desc":"this is my project Growtopia Private Server website.",
+        "links": {
+            "demo": "https://github.com/VernSG",
+            "code": "https://github.com/VernSG"
         }
     }
 ]
