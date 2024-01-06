@@ -41,7 +41,7 @@
         "image": "./assets/img/project/webgtps2.png",
         "desc":"this is my project Growtopia Private Server website.",
         "links": {
-            "demo": "https://github.com/VernSG",
+            "demo": "https://gtps-website.vercel.app",
             "code": "https://github.com/VernSG"
         }
     }
