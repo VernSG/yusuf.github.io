@@ -706,6 +706,7 @@ footer .content{
 }
 footer .content img{
   width: 50px;
+  rounded: full
   margin-bottom: 10px;
 }
 footer .content:nth-child(3) a i{
