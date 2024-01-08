@@ -706,7 +706,11 @@ footer .content{
 }
 footer .content img{
   width: 50px;
-  rounded: full
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #333; /* Warna dan ketebalan border sesuaikan dengan preferensi Anda */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Efek bayangan (optional) */
+  transition: transform 0.3s ease-in-out; 
   margin-bottom: 10px;
 }
 footer .content:nth-child(3) a i{
